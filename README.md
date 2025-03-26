@@ -2,7 +2,7 @@
 
 A modern, high-performance React application for crypto market analytics and monitoring, built with best practices for performance, maintainability, and user experience.
 
-![DarkWave Crypto Portal](https://i.imgur.com/vNzItdY.png)
+🌐 Live Demo: [crypto-portal-ten.vercel.app](https://crypto-portal-ten.vercel.app)
 
 ## 🚀 Features
 
@@ -15,15 +15,6 @@ A modern, high-performance React application for crypto market analytics and mon
 - **Performance Optimized**: Code splitting, lazy loading, and efficient rendering
 - **Offline Capability**: Works with mock data when no backend is available
 
-## 📸 Screenshots
-
-<div align="center">
-  <img src="https://i.imgur.com/vNzItdY.png" alt="Dashboard" width="80%" />
-  <p><em>Main Dashboard with Analytics</em></p>
-  <br />
-  <img src="https://i.imgur.com/RsaRzXX.png" alt="Mobile View" width="30%" />
-  <p><em>Responsive Mobile Design</em></p>
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -180,12 +171,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 📬 Contact
-
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
-
-Project Link: [https://github.com/yourusername/darkwave-crypto-portal](https://github.com/yourusername/darkwave-crypto-portal)
